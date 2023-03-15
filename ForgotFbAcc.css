@@ -1,0 +1,77 @@
+body
+{
+    background-color: rgb(218, 218, 218);
+    font-family: arial;
+}
+#div1
+{
+    font-family: "lucidagrande", tahoma,verdana,arial,sans-serif;
+    font-size: 60px;
+    font-weight: bold;
+    color: white;
+    width: 64%;
+    margin-top: 30px;
+}
+a
+{
+   text-decoration: none;
+   color: rgb(78, 125, 235);
+   font-weight: normal;
+}
+td
+{
+    font-size: 18px;
+    color: white;
+    padding: 3px;
+    font-weight: bold;
+   
+}
+input
+{
+    height: 30px;
+}
+#login
+{
+    background-color: rgb(33, 33, 143);
+    color: white;
+    border-radius: 4px;
+    border: 0px;
+}
+#fieldset
+{
+    width:45%;
+    height:195px;
+    background-color: white;
+    margin-left: 280px;
+    margin-top: 70px;
+    padding: 20px;
+    border: 0px;
+    border-radius: 4px;
+}
+h1
+{
+    margin-top: 0px;
+    font-size: 30px;
+    text-transform: capitalize;
+}
+#text
+{
+    padding-left: 24px;
+    text-align: center;
+    display: block;
+}
+#searchbar
+{
+    width:60%;
+    margin-top: 5px;
+    margin-left: 12%;
+    margin-bottom: 35px;
+}
+#login1
+{
+    background-color: rgb(33, 75, 146);
+    margin-left: 75%;
+    border: 0px;
+    color: white;
+    border-radius: 3px;
+}
